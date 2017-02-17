@@ -48,7 +48,7 @@ class: center, middle, inverse
 ---
 
 # Crowdsale
-### crowd equityi, ICO (initial coin offering)
+### crowd equity, ICO (initial coin offering)
 
 ???
 
